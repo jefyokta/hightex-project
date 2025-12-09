@@ -9,7 +9,7 @@ Jika Anda menemukan bug, mengalami error, atau memiliki saran pengembangan, sila
 🚀 Cara Melaporkan Masalah
 
 Buka halaman Issues pada repository ini:
-👉 [issue][https://github.com/jefyokta/hightex-project/issues]
+👉 [issue](https://github.com/jefyokta/hightex-project/issues)
 
 Klik "New Issue".
 
