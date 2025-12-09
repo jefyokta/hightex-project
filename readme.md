@@ -2,7 +2,7 @@
 buat readme untuk menjelaskan kalo ada masalah di aplikasi submit issue:
 
 
-```chatgpt
+
 Berikut versi README yang copyable, menggunakan link Markdown standar:
 
 ## 📝 Melaporkan Masalah (Issue)
@@ -30,4 +30,3 @@ Jika Anda menemukan bug, mengalami error, atau memiliki saran pengembangan, sila
 
 Pelaporan masalah membantu kami memperbaiki aplikasi lebih cepat dan membuatnya lebih stabil serta sesuai kebutuhan pengguna.
 Masukan Anda sangat berarti!
-```
