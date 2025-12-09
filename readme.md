@@ -1,5 +1,5 @@
 # Hightex Project 
-buat readme untuk menjelaskan kalo ada masalah di applikasi submit issue:
+buat readme untuk menjelaskan kalo ada masalah di aplikasi submit issue:
 
 
 Berikut versi README yang copyable, menggunakan link Markdown standar:
