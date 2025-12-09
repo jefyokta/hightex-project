@@ -9,7 +9,7 @@ Berikut versi README yang copyable, menggunakan link Markdown standar:
 
 Jika Anda menemukan bug, mengalami error, atau memiliki saran pengembangan, silakan laporkan melalui GitHub Issues.
 
-🚀 Cara Melaporkan Masalah
+## 🚀 Cara Melaporkan Masalah
 
 ### Buka halaman Issues pada repository ini:
 👉 [issue](https://github.com/jefyokta/hightex-project/issues)
@@ -18,7 +18,7 @@ Jika Anda menemukan bug, mengalami error, atau memiliki saran pengembangan, sila
 
 ### Jelaskan masalah dengan jelas:
 
-### Langkah yang menyebabkan error
+- Langkah yang menyebabkan error
 
 - Perilaku yang diharapkan
 
@@ -26,7 +26,7 @@ Jika Anda menemukan bug, mengalami error, atau memiliki saran pengembangan, sila
 
 - Screenshot atau log (jika ada)
 
-💡 Kenapa Perlu Submit Issue?
+### 💡 Kenapa Perlu Submit Issue?
 
 Pelaporan masalah membantu kami memperbaiki aplikasi lebih cepat dan membuatnya lebih stabil serta sesuai kebutuhan pengguna.
 Masukan Anda sangat berarti!
