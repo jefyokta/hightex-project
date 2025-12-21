@@ -35,7 +35,8 @@ Masukan Anda sangat berarti!
 
 # not ai genereted
 interested to contibute to the project?
-contact me
-ig: jefyokta_
-mail : jefyokta50@gmail.com / jefyokta50@icloud.com
+## contact me
+
+- ig: jefyokta_
+- email : jefyokta50@gmail.com / jefyokta50@icloud.com
 
