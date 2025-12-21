@@ -30,3 +30,12 @@ Jika Anda menemukan bug, mengalami error, atau memiliki saran pengembangan, sila
 
 Pelaporan masalah membantu kami memperbaiki aplikasi lebih cepat dan membuatnya lebih stabil serta sesuai kebutuhan pengguna.
 Masukan Anda sangat berarti!
+
+
+
+# not ai genereted
+interested to contibute to the project?
+contact me
+ig: jefyokta_
+mail : jefyokta50@gmail.com / jefyokta50@icloud.com
+
