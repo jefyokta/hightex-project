@@ -33,7 +33,7 @@ Masukan Anda sangat berarti!
 
 
 
-# not ai generated
+# not ai generation
 interested to contibute to the project?
 ## contact me
 
