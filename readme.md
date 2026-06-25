@@ -40,3 +40,14 @@ interested to contibute to the project?
 - ig: jefyokta_
 - email : jefyokta50@gmail.com / jefyokta50@icloud.com
 
+---
+
+## Download HighTex Desktop App
+
+Silakan unduh installer aplikasi sesuai dengan sistem operasi yang Anda gunakan melalui tautan unduhan langsung di bawah ini:
+
+| Sistem Operasi | Format | Tautan Unduhan Langsung |
+| :--- | :--- | :--- |
+| **Windows** | .exe | [Download untuk Windows](https://github.com/jefyokta/hightex-desktop/releases/download/v0.0.1/HighTex-Windows-0.0.1-Setup.exe) |
+| **macOS** | .dmg | [Download untuk macOS](https://github.com/jefyokta/hightex-desktop/releases/download/v0.0.1/HighTex-Mac-0.0.1-Installer.dmg) |
+| **Linux** | .AppImage | [Download untuk Linux](https://github.com/jefyokta/hightex-desktop/releases/download/v0.0.1/HighTex-Linux-0.0.1.AppImage) |
