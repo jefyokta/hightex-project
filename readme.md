@@ -48,6 +48,6 @@ Silakan unduh installer aplikasi sesuai dengan sistem operasi yang Anda gunakan 
 
 | Sistem Operasi | Format | Tautan Unduhan Langsung |
 | :--- | :--- | :--- |
-| **Windows** | .exe | [Download untuk Windows](https://github.com/jefyokta/hightex-desktop/releases/download/v0.0.15/HighTex-Windows-0.0.15-Setup.exe) |
-| **macOS** | .dmg | [Download untuk macOS](https://github.com/jefyokta/hightex-desktop/releases/download/v0.0.15/HighTex-Mac-0.0.15-Installer.dmg) |
-| **Linux** | .AppImage | [Download untuk Linux](https://github.com/jefyokta/hightex-desktop/releases/download/v0.0.15/HighTex-Linux-0.0.15.AppImage) |
+| **Windows** | .exe | [Download untuk Windows](https://github.com/jefyokta/hightex-desktop/releases/download/v0.4.1/HighTex-Windows-0.4.1-Setup.exe) |
+| **macOS** | .dmg | [Download untuk macOS](https://github.com/jefyokta/hightex-desktop/releases/download/v0.4.1/HighTex-Mac-0.4.1-Installer.dmg) |
+| **Linux** | .AppImage | [Download untuk Linux](https://github.com/jefyokta/hightex-desktop/releases/download/v0.4.1/HighTex-Linux-0.4.1.AppImage) |
