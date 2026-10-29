@@ -1,7 +1,7 @@
 # Hightex Project 
 buat readme untuk menjelaskan kalo ada masalah di aplikasi submit issue:
 
-
+buka [panduan manual](hightex://document?url=https%3A%2F%2Fgithub.com%2Fjefyokta%2Fhightex-project%2Fraw%2Frefs%2Fheads%2Fmain%2Fthesis.hightex)] di hightex
 
 Berikut versi README yang copyable, menggunakan link Markdown standar:
 
